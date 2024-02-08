@@ -1,0 +1,7 @@
+1. Total Product Sales (Annual & Monthly filter)
+2. Gross Revenue (Annual & Monthly filter)
+3. Top Selling Products (Annual & Monthly filter)
+4. Top Grossing Products (Annual & Monthly filter)
+5. Product Seasonality [Product Orders per month (Line Graph)]/[Product Orders per Weekday]
+6. Product/Sales Regionality [Products & Quantity Ordered per State/City]
+7. Average Order Value (AOV) [Average Sales per Order ID] (Total Sales divided by Total Unique Order ID)
